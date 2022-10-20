@@ -4,11 +4,11 @@
 
 ## Projeto
 
-<img src="assets/convidados.gif" width="600px"/>
+<img src="assets/convidados.gif" width="380px"/>
 
-<img src="assets/noparticipant.jpg" />
+<img src="assets/noparticipant.jpg" width="380px"/>
 
-<img src="assets/lista.jpg" />
+<img src="assets/lista.jpg" width="380px"/>
 
 # Install
 
